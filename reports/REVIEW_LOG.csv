@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0107.jpg,nhóm xe ở giữa ảnh làn bên phải,edited,"mô hình đánh dấu 3 xe thành 1, sửa thành 3 box khác nhau"
+1,frame_0227.jpg,xe ở xa góc trái trên,added,đánh dấu thêm các xe chưa được detect
+1,frame_0270.jpg,nhóm xe lớn ở làn trái,added,"mô hình đánh lẫn lộn, thực hiện đánh riêng từng xe"
